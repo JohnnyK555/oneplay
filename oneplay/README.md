@@ -1,12 +1,14 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/JohnnyK555/oneplay/refs/heads/main/oneplay/public/logo%20fullscreen.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Run and deploy your app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/77a98654-0bf3-438e-bbf5-63f66eaaed0e
+Pokud toto vidí někdo z Novy nebo O2 nebo z přímo OnePlay pls neposílejte předžalobku po 25. červnu to stáhnehe celé.(btw pro info potrebujeme to do skoly)
+
+View app on: https://oneplay2026.netlify.app/
 
 ## Run Locally
 
