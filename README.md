@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/JohnnyK555/oneplay/refs/heads/main/oneplay/public/logo%20fullscreen.png" />
+<img width="1200" height="630" alt="GHBanner" src="https://raw.githubusercontent.com/JohnnyK555/oneplay/refs/heads/main/oneplay/public/logo%20fullscreen.png" />
 </div>
 
 # Run your app
